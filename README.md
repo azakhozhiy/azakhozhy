@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @azakhozhy
+👋 Hi, I’m @azakhozhy
 
 <!---
 azakhozhy/azakhozhy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
